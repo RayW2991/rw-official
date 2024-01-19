@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>rw-official</title>
+  
+  
+  <link href="https://bio.rw-official.com/atom.xml" rel="self"/>
+  
+  <link href="https://bio.rw-official.com/"/>
+  <updated>2024-01-19T09:09:27.311Z</updated>
+  <id>https://bio.rw-official.com/</id>
+  
+  <author>
+    <name>Rui Wang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rui Wang</title>
+    <link href="https://bio.rw-official.com/2024/01/19/ray/"/>
+    <id>https://bio.rw-official.com/2024/01/19/ray/</id>
+    <published>2024-01-19T07:39:30.000Z</published>
+    <updated>2024-01-19T09:09:27.311Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://raw.githubusercontent.com/RayW2991/rw-official/main/profile.png" alt="Rui Wang"></p><p>I’m Rui Wang, a data analyst with an impressive academic record from Columbia University and UMass Amherst. I am proficient in both Mandarin and English with deep expertise in AWS, SQL, Python, and R. My expertise lies in applying advanced data analysis techniques to drive business intelligence and decision-making.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://raw.githubusercontent.com/RayW2991/rw-official/main/profile.png&quot; alt=&quot;Rui Wang&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I’m Rui Wang, a data analyst wi</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
